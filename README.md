@@ -7,8 +7,8 @@ Technologies used: HTML, CSS, JavaScript, Node.jS, Express.
 
 Challenges: Some potential challenges in this project will be navigating through the installations and use of various packages and dependencies.
 
-## Website: 
+## Website: https://bright-notetaker.herokuapp.com/
 
-## GitHub: https://github.com/kagebright/Bright-EmployeeTracker
+## GitHub: https://github.com/kagebright/NoteTaker
 
 ### Screenshots: 
